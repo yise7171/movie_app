@@ -1,3 +1,11 @@
+.movies .movie a {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  text-decoration: none;
+  color: inherit;
+}
+
 .movie img {
   position: relative;
   top: -50px;
